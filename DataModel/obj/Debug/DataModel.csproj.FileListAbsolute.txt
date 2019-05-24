@@ -1,0 +1,10 @@
+D:\Pratik\Projects\CMS\DataModel\bin\Debug\DataModel.dll.config
+D:\Pratik\Projects\CMS\DataModel\bin\Debug\DataModel.dll
+D:\Pratik\Projects\CMS\DataModel\bin\Debug\DataModel.pdb
+D:\Pratik\Projects\CMS\DataModel\bin\Debug\EntityFramework.dll
+D:\Pratik\Projects\CMS\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Pratik\Projects\CMS\DataModel\bin\Debug\EntityFramework.xml
+D:\Pratik\Projects\CMS\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Pratik\Projects\CMS\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\Pratik\Projects\CMS\DataModel\obj\Debug\DataModel.dll
+D:\Pratik\Projects\CMS\DataModel\obj\Debug\DataModel.pdb
